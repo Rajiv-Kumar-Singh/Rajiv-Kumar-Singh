@@ -1,16 +1,9 @@
 ### Hi there 👋
 
-<!--
-**Rajiv-Kumar-Singh/Rajiv-Kumar-Singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on MERN Project.
+- 🔭 I’m currently working on a MERN Project.
 - 🌱 I’m currently learning Full-Stack Web Development
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on projects related to web development
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Web Development.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: Linkedin - https://www.linkedin.com/in/rajiv-kr-singh-04296418b/
